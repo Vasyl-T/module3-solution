@@ -1,0 +1,25 @@
+#header-nav {
+  background-color: #FCF9A1;
+  border-radius: 0;
+  border: 0;
+}
+.navbar-brand {
+  padding-top: 25px;
+}
+.navbar-brand h1 { /* Company's name */
+  color: #3807D8;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.container {
+  background-color: #FCF9A1;
+  text-align: justify;
+  margin: 15px;
+  position: center;
+}
+#our-menu {
+font-size: 1.5em;
+}
